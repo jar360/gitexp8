@@ -3,5 +3,6 @@ int main(){
 	printf("Library management system");
 	printf("book registration module\n");
 	printf("book search module\n");
+	printf("book issue funcationality\n");
 	return 0;
 }
